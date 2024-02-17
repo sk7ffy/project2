@@ -1,1 +1,1 @@
-# project2
+# flask_news
